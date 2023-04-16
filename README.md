@@ -1,1 +1,1 @@
-# CoactivationNetworks
+# Coactivation Networks
